@@ -1,0 +1,3 @@
+class VehiclesRepository {
+  VehiclesRepository._();
+}

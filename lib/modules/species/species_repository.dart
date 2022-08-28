@@ -1,0 +1,3 @@
+class SpeciesRepository {
+  SpeciesRepository._();
+}
